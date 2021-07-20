@@ -1,5 +1,12 @@
 
-## Django project to handle user authentication using username or email and password
+## django-authentication
+django-authentication is a Django project to handle user authentication using username or email and password
+
+
+## Tools used
+- django
+- django-crispy-forms
+- bootstrap
 
 
 ## Users could perform the following operations:
@@ -12,7 +19,7 @@
 
 **Note:** I took a lot of ideas from this book: **Django 2 by Example - By Antonio Melé**
 
-Here are some screensshot from the project
+## Here are some screensshoot for the app:
 
 
 A user could Sign Up 
